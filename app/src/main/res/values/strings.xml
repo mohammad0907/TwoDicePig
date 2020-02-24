@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cis436P1_TwoDIcePig</string>
+    <string name= "playerOne">Player One : 0</string>
+    <string name= "playerTwo">Player Two : 0</string>
+    <string name = "currentPlayer">Current Player : </string>
+    <string name = "turnTotal">Turn Total : </string>
+    <string name = "diceOne">Dice One : </string>
+    <string name = "diceTwo">Dice Two : </string>
+    <string name = "hold">Hold</string>
+    <string name="rollDice">Roll Dice</string>
+    <string name="reset" >Reset</string>
+    <string name="DiceOne">Dice One</string>
+    <string name="DiceTwo">Dice Two</string>
+</resources>
